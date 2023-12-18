@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="78AF08F2-EB6B-A1EE-A756-D01F63FDD827">
+	<DocumentID>78AF08F2-EB6B-A1EE-A756-D01F63FD9827</DocumentID>
+	<Name>78AF08F2-EB6B-A1EE-A756-D01F63FD9827</Name>
+	<Description>ENT486</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2023-12-18T04:10:20.228</CreationDate>
+	<Notes/>
+	<Text>ENT486</Text>
+	<Language>
+		<uri
+			id="78AF08F2-EB6B-A1EE-A635-1EDD78119824"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="78AF08F2-EB6B-A1EE-A756-D01F63FD1827"
+		/>
+	</TextIdentifier>
+</TranslatedText>
