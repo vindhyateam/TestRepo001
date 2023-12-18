@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="78AF08F2-EB6B-A1EE-A756-EE649C779827">
+	<DocumentID>78AF08F2-EB6B-A1EE-A756-EE649C775827</DocumentID>
+	<Name>78AF08F2-EB6B-A1EE-A756-EE649C775827</Name>
+	<Description>ENT831</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2023-12-18T04:13:05.728</CreationDate>
+	<Notes/>
+	<Text>ENT831</Text>
+	<Language>
+		<uri
+			id="78AF08F2-EB6B-A1EE-A635-1EDD78119824"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="78AF08F2-EB6B-A1EE-A756-EE649C76D827"
+		/>
+	</TextIdentifier>
+</TranslatedText>
