@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="78AF08F2-EB6B-A1EE-A829-CBF1AE1CD827">
+	<DocumentID>78AF08F2-EB6B-A1EE-A829-CBF1AE1C9827</DocumentID>
+	<Name>78AF08F2-EB6B-A1EE-A829-CBF1AE1C9827</Name>
+	<Description>ENT160</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2023-12-22T08:50:53.163</CreationDate>
+	<Notes/>
+	<Text>ENT160</Text>
+	<Language>
+		<uri
+			id="78AF08F2-EB6B-A1EE-A829-4BEE1B989827"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="78AF08F2-EB6B-A1EE-A829-CBF1AE1C1827"
+		/>
+	</TextIdentifier>
+</TranslatedText>
