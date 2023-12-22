@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="78AF08F2-EB6B-A1EE-A823-59B381F65827">
+	<DocumentID>78AF08F2-EB6B-A1EE-A823-59B381F61827</DocumentID>
+	<Name>78AF08F2-EB6B-A1EE-A823-59B381F61827</Name>
+	<Description>ENT606</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2023-12-22T05:46:49.032</CreationDate>
+	<Notes/>
+	<DefaultText>ENT606</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="78AF08F2-EB6B-A1EE-A822-3B97824C9827"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="78AF08F2-EB6B-A1EE-A823-59B381F69827"
+		/>
+	</Translations>
+</TextIdentifier>
