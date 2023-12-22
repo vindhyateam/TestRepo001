@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="78AF08F2-EB6B-A1EE-A829-4BEE1BFA5827">
+	<DocumentID>78AF08F2-EB6B-A1EE-A829-4BEE1BFA1827</DocumentID>
+	<Name>78AF08F2-EB6B-A1EE-A829-4BEE1BFA1827</Name>
+	<Description>ENT328</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2023-12-22T08:36:32.916</CreationDate>
+	<Notes/>
+	<DefaultText>ENT328</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="78AF08F2-EB6B-A1EE-A829-4BEE1B979827"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="78AF08F2-EB6B-A1EE-A829-4BEE1BFA9827"
+		/>
+	</Translations>
+</TextIdentifier>
