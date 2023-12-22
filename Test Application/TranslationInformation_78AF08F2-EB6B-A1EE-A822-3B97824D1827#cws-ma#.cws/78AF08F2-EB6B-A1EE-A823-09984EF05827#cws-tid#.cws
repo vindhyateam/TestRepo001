@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="78AF08F2-EB6B-A1EE-A823-09984EF09827">
+	<DocumentID>78AF08F2-EB6B-A1EE-A823-09984EF05827</DocumentID>
+	<Name>78AF08F2-EB6B-A1EE-A823-09984EF05827</Name>
+	<Description>ENT497</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2023-12-22T05:37:16.269</CreationDate>
+	<Notes/>
+	<DefaultText>ENT497</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="78AF08F2-EB6B-A1EE-A822-3B97824C9827"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="78AF08F2-EB6B-A1EE-A823-09984EF0D827"
+		/>
+	</Translations>
+</TextIdentifier>
