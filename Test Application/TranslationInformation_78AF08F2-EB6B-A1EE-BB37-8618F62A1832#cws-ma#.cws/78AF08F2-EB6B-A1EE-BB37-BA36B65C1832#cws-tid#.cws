@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="78AF08F2-EB6B-A1EE-BB37-BA36B65C5832">
+	<DocumentID>78AF08F2-EB6B-A1EE-BB37-BA36B65C1832</DocumentID>
+	<Name>78AF08F2-EB6B-A1EE-BB37-BA36B65C1832</Name>
+	<Description>ENT937</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2024-03-28T08:41:14.655</CreationDate>
+	<Notes/>
+	<DefaultText>ENT937</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="78AF08F2-EB6B-A1EE-BB37-8618F6299832"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="78AF08F2-EB6B-A1EE-BB37-BA36B65C9832"
+		/>
+	</Translations>
+</TextIdentifier>
