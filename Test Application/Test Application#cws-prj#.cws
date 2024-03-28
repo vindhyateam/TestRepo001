@@ -1,0 +1,103 @@
+
+<Project
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.cws.documenttypes.project.Project"
+	typeVersion="0019B980-5ADC-71DF-9C5A-1C9DE0779704"
+	RuntimeDocumentID="78AF08F2-EB6B-A1EE-BB37-8618F6295832">
+	<DocumentID>78AF08F2-EB6B-A1EE-BB37-8618F6291832</DocumentID>
+	<Name>Test Application</Name>
+	<Description>Test Application</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2024-03-28T08:35:14.952</CreationDate>
+	<Notes/>
+	<NamespacePrefix></NamespacePrefix>
+	<Configurations/>
+	<ISVPackageInfo>
+		<ISVPackageInfo
+			type="com.cordys.cws.packaging.isvp.ISVPackageInfo"
+			typeVersion="00215A62-2E6A-11E2-EEB7-903C43CFF084"
+			RuntimeDocumentID="78AF08F2-EB6B-A1EE-BB37-8618F62C5832">
+			<DocumentID>78AF08F2-EB6B-A1EE-BB37-8618F62C1832</DocumentID>
+			<Name>OT Test Application</Name>
+			<Description>OT Test Application</Description>
+			<CreatedBy>sysadmin</CreatedBy>
+			<CreationDate>2024-03-28T08:35:14.952</CreationDate>
+			<Notes/>
+			<BuildNumber>0</BuildNumber>
+			<GenerateModelPackage>false</GenerateModelPackage>
+			<ISVPackageFileName>OT Test Application 1.0.0</ISVPackageFileName>
+			<ISVPackageOwner>OT</ISVPackageOwner>
+			<PackageForRuntime>true</PackageForRuntime>
+			<PostISVLoaderInformation/>
+			<Product>Test Application</Product>
+			<SupportedDeploymentSpaces
+				xmlns:cws="http://schemas.cordys.com/cws/1.0"
+				cws:type="collection:string">
+				<cws:item>SHARED</cws:item>
+			</SupportedDeploymentSpaces>
+			<Version>1.0</Version>
+			<LicenseAgreement/>
+			<ThirdPartyAgreement/>
+		</ISVPackageInfo>
+	</ISVPackageInfo>
+	<RuntimeQualifiedName/>
+	<SourceFolder>
+		<uri
+			id="78AF08F2-EB6B-A1EE-BB37-8618F62B9832"
+			path="Test Application"
+			type="com.cordys.cws.runtime.types.folder.StudioFolder"
+		/>
+	</SourceFolder>
+	<_AddOns>
+		<TranslationInformation
+			type="com.cordys.translation.TranslationInformation"
+			typeVersion="b81bb9b4-8af7-470f-a5fa-864be49acb9d"
+			RuntimeDocumentID="78AF08F2-EB6B-A1EE-BB37-8618F629D832">
+			<DocumentID>78AF08F2-EB6B-A1EE-BB37-8618F6299832</DocumentID>
+			<Name>TranslationInformation</Name>
+			<Description/>
+			<CreatedBy>sysadmin</CreatedBy>
+			<CreationDate>2024-03-28T08:35:14.952</CreationDate>
+			<Notes/>
+			<LanguagePacks>
+				<LanguagePack
+					type="com.cordys.translation.LanguagePack"
+					typeVersion="11456b87-q895-32f2-584q-58f3tlm2so65"
+					RuntimeDocumentID="78AF08F2-EB6B-A1EE-BB37-8618F62AD832">
+					<DocumentID>78AF08F2-EB6B-A1EE-BB37-8618F62A9832</DocumentID>
+					<Name>en-US</Name>
+					<Description/>
+					<CreatedBy>sysadmin</CreatedBy>
+					<CreationDate>2024-03-28T08:35:14.952</CreationDate>
+					<Notes/>
+					<Language>English - United States</Language>
+					<Texts>
+						<uri
+							id="78AF08F2-EB6B-A1EE-BB37-8618F62B1832"
+							path="Test Application/en-US_78AF08F2-EB6B-A1EE-BB37-8618F62B1832"
+							type="com.cordys.cws.associations.MergeableAssociation"
+						/>
+					</Texts>
+					<TranslationInformation>
+						<uri
+							id="78AF08F2-EB6B-A1EE-BB37-8618F6299832"
+						/>
+					</TranslationInformation>
+				</LanguagePack>
+			</LanguagePacks>
+			<ProjectLanguage>
+				<uri
+					id="78AF08F2-EB6B-A1EE-BB37-8618F62A9832"
+				/>
+			</ProjectLanguage>
+			<Texts>
+				<uri
+					id="78AF08F2-EB6B-A1EE-BB37-8618F62A1832"
+					path="Test Application/TranslationInformation_78AF08F2-EB6B-A1EE-BB37-8618F62A1832"
+					type="com.cordys.cws.associations.MergeableAssociation"
+				/>
+			</Texts>
+			<TranslationInformation/>
+		</TranslationInformation>
+	</_AddOns>
+</Project>
