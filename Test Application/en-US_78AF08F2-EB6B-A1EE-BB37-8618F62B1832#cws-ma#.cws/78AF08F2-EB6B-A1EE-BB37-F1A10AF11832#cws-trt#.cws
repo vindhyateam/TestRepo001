@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="78AF08F2-EB6B-A1EE-BB37-F1A10AF15832">
+	<DocumentID>78AF08F2-EB6B-A1EE-BB37-F1A10AF11832</DocumentID>
+	<Name>78AF08F2-EB6B-A1EE-BB37-F1A10AF11832</Name>
+	<Description>ENT429</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2024-03-28T08:47:28.729</CreationDate>
+	<Notes/>
+	<Text>ENT429</Text>
+	<Language>
+		<uri
+			id="78AF08F2-EB6B-A1EE-BB37-8618F62A9832"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="78AF08F2-EB6B-A1EE-BB37-F1A10AF09832"
+		/>
+	</TextIdentifier>
+</TranslatedText>
